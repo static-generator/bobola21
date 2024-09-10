@@ -4,8 +4,7 @@
 #### Pacol, Naga City
 ---
 Social Media 
-- Facebook
-- Instagram
-- Tiktok
-- X
-- Discord
+- [Facebook](https:facebook.com)
+- [Instagram](hyttps:instagram.com)
+- [Tiktok](https:tiktok.com)
+- [Discord](https:discord.com)
