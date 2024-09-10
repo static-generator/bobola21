@@ -10,5 +10,5 @@ Social Media
 - [Discord](https:discord.com)
 
 
-![image](![image](https://github.com/user-attachments/assets/e7e7c883-b691-4081-bb6d-9ea9323c6aab)
+(![image](https://github.com/user-attachments/assets/e7e7c883-b691-4081-bb6d-9ea9323c6aab)
 
