@@ -5,6 +5,6 @@
 ---
 Social Media 
 - [Facebook](https:facebook.com)
-- [Instagram](hyttps:instagram.com)
+- [Instagram](https:instagram.com)
 - [Tiktok](https:tiktok.com)
 - [Discord](https:discord.com)
